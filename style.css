@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: whitesmoke;
+  }
+  
+  .container {
+    text-align: center;
+    width: 60%;
+    background-color: gray;
+    color:black;
+    font-weight: bold;
+
+  }
+  h1 {
+    color: black;
+    font-size: 36px;
+  }
+  
+  .converter {
+    margin-bottom: 20px;
+
+  }
+  .toCurrency {
+    font-size: 22px;
+    font-weight: bold;
+    color:white;
+  }
+  
+  label, select, input, button {
+    margin: 25px;
+    font-size: 20px;
+  }
+  
+  .result {
+    font-weight: bold;
+  }
+
+  
